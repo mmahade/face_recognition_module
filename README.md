@@ -22,13 +22,17 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
+## Description of Face Recognition Module
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+
+This module is basically used "face-ai" to match a face and feed face to the storage so that we can use it during face login in a system  
 
 ## Project setup
 
 ```bash
+$ npm install face-api.js@0.22.2 @tensorflow/tfjs@1.7.4 @tensorflow/tfjs-node@1.7.4
+
 $ npm install
 ```
 
